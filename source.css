@@ -1,12 +1,12 @@
 
 /*          HEADER          */
 #header {
-    background-color: #00FF00;
-    color: #000000;
+    background-color: #000 ;
+    color: #FFF;
     padding: 10px 20px;
 }
 #header h1 {
-    color: #FF0000;
+    color: #FFF;
     margin: 0px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -20,7 +20,10 @@
     margin: 0 15px 0 0;
 }
 #header ul a {
-	color: #000000;
+	color: #FFF;
 	text-decoration: blanchedalmond;
+}
+#header ul a:hover {
+    color: #F00;
 }
 /*                                  */
